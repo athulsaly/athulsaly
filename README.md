@@ -9,7 +9,7 @@ I am a Software engineer with a Frontend focus who loves React and has been work
 * 🌍  I'm based in India
 * ✉️  You can contact me at [athulsally@gmail.com](mailto:athulsally@gmail.com)
 * 🧠  I'm learning NestJS | PostgreSQL
-* <a href="athulsaly.vercel.app" target="_">See my portfolio here</a>
+* <a href="https://athulsaly.vercel.app" target="_blank">See my portfolio here</a>
 
 ### Skills
 
